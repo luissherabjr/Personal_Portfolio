@@ -5,7 +5,7 @@ import { getStorage } from 'firebase/storage';
 import { getAuth, onAuthStateChanged } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDBOz2ZB8K3MN_ISSNZcFk6rC41RSQoX1k",
+  apiKey: "",
   authDomain: "personal-portfolio-e7047.firebaseapp.com",
   projectId: "personal-portfolio-e7047",
   storageBucket: "personal-portfolio-e7047.firebasestorage.app",
